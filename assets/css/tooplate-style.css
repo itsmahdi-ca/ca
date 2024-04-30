@@ -620,6 +620,10 @@ figure.snip1321.hover:after {
   opacity: 0.9;
 }
 
+.left-image img, .right-text img {
+    width: 100px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+}
 
 /* Contact */
 
