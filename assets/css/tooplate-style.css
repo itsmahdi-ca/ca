@@ -14,7 +14,7 @@ body {
 }
 
 #page-wraper {
-    background: #CACFD2 no-repeat center center fixed;
+    background: #FDFEFE no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -145,7 +145,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #2279BD;
+    color: #F2F3F4;
 }
 
 /* Sidebar Menu */
